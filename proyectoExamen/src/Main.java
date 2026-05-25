@@ -11,6 +11,7 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.print("i = " + i);
         }
+        System.out.println(suma(0,2));
 
     }
     public static int suma(int a,int b){
